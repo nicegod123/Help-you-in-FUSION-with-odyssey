@@ -1,8 +1,4 @@
-#               THIS IS A GUIDE
-#			   FOR PVZ FUSION
-#  PLEASE NOTE THAT YOU PROBABLY
-#	  WILL GET SPOILED IN PVZ 
-#	          FUSION LIKE ME
+#               THIS IS A GUIDE FOR PVZ FUSION PLEASE NOTE THAT YOU PROBABLY WILL GET SPOILED IN PVZ FUSION LIKE ME
 
 Here is the download link to PVZ Fusion. 
 "https://github.com/Teyliu/PVZF-Translation/releases" (This is for the translated version) 
