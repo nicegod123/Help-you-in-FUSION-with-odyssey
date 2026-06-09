@@ -1,4 +1,4 @@
-
+(there is a dictionary, named convieniently "dictionary.txt")
 
 =============================
 MY GUIDE ON HOW TO DO THE FUSIONS
@@ -13,7 +13,9 @@ get a magnet-shroom and a pumpkin to fuse together
 =
 lure pumpkin
 
-get that lure pumpkin and fuse it with a jack in a box
+kill a jack in a box zombie to get a jack in a box
+
+get a lure pumpkin and fuse it with a jack in a box
 =
 joker pumpkin
 
@@ -92,7 +94,7 @@ get a fume-shroom and fuse it with a ice-shroom
 =
 frost-shroom
 
-fuse the ice-shroom with a doom-shroom
+fuse the frost-shroom with a doom-shroom
 =
 doomicle-shroom
 
@@ -140,3 +142,75 @@ fuse them together
 get the doomicle-shroom and fuse it with teh cryonic-shroom
 =
 DOOMINATOR-SHROOM
+
+
+
+
+VORTEX MELON
+
+STEP ONE:
+get a winter melon
+
+fuse melon pult and ice-shroom
+=
+winter melon
+
+STEP TWO:
+get a chrono melon
+
+kill a chronoporter zombie to get the chrono-disk
+
+fuse a melon pult with a magnet-shroom
+=
+melon lure
+
+get the chrono-disk and fuse it with the melon lure
+=
+chrono melon
+
+STEP THREE:
+combining/fusing
+
+fuse the winter melon and the chrono melon
+=
+vortex melon
+
+
+LASER PUMPKIN
+
+STEP ONE:
+get a carrier pumpkin
+
+(requires to beat the challenge "Carrier Pumpkin Fusion Challenge (8)")
+
+fuse a cactus and pumpkin
+=
+thorn pumpkin
+
+fuse the thorn pumpkin and a blover
+=
+carrier pumpkin
+
+
+STEP TWO:
+get a magneto blover
+
+fuse a magnet-shroom with a blover
+=
+magneto blover
+
+STEP THREE:
+fuse them together
+
+fuse the carrier pumpkin with the magneto blover
+=
+laser pumpkin
+
+(further is blast pumpkin)
+
+EXTRA STEP:
+fusing some more!
+
+fuse the laser pumpkin with a cherry bomb
+=
+blast pumpkin
