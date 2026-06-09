@@ -1,0 +1,9 @@
+blast pumpkin = 209
+laser pumpkin = 179
+vortex pumpkin  = 149
+doominator shroom = 118
+oblivion shroom = 88
+obsidian tallnut = 64
+giant chomper = 59
+gatling pea turret = 40
+armor pumpkin = 7
